@@ -1,0 +1,13 @@
+{
+  "name": "money",
+  "version": "1.0.0",
+  "description": "",
+  "main": "show.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "getData":"node ./index.js",
+    "start": "node ./show.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
